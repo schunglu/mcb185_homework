@@ -1,2 +1,2 @@
-# MCB185 Homework
+# mcb185 Homework
 Sophia Lu - Homework
