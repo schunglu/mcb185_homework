@@ -1,0 +1,21 @@
+Thu Jan  9 15:38:18 PST 2025
+Darwin campus-041-050.ucdavis.edu 23.4.0 Darwin Kernel Version 23.4.0: Fri Mar 15 00:11:05 PDT 2024; root:xnu-10063.101.17~1/RELEASE_X86_64 x86_64
+TERM_PROGRAM=Apple_Terminal
+SHELL=/bin/zsh
+TERM=xterm-256color
+TMPDIR=/var/folders/cs/kmn8076j5zs8gtt02zz3d3kh0000gn/T/
+TERM_PROGRAM_VERSION=453
+TERM_SESSION_ID=1CB46609-40E9-4170-908F-05948CFEFE10
+USER=sophialu
+SSH_AUTH_SOCK=/private/tmp/com.apple.launchd.nLIvy8rgJB/Listeners
+PATH=/usr/local/bin:/System/Cryptexes/App/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/local/bin:/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/bin:/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/appleinternal/bin
+__CFBundleIdentifier=com.apple.Terminal
+PWD=/Users/sophialu/sophia/mcb185_homework
+LANG=en_US.UTF-8
+XPC_FLAGS=0x0
+XPC_SERVICE_NAME=0
+SHLVL=2
+HOME=/Users/sophialu
+LOGNAME=sophialu
+_=/usr/bin/printenv
+Python 3.9.6
