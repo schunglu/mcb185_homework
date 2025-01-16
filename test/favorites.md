@@ -1,4 +1,5 @@
-# A list of my ** FAVORITES ** #
+# Lists of my FAVORITES #
+
 ## My favorite foods ##
 - mangoes
 - noodles
