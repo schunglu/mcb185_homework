@@ -35,6 +35,9 @@ more than one point per category. There is a maximum of 5 points each week.
 	+ Total 4 points
 - Week 2
 	+ Attended class Tuesday
+	+ Helped my friend Jed through zoom
+	+ Introduced myself to Zucy on Thursday
+	+ Attended class Thursday 
 - Week 3
 - Week 4
 - Week 5
