@@ -44,10 +44,15 @@ more than one point per category. There is a maximum of 5 points each week.
 	+ Attended class Tuesday
 	+ Attended class Thursday
 	+ Introduced myself to Alex 
-	+ Worked on unit1 with Alex
+	+ Worked on unit 1 with Alex
 	+ Total 4 points
 - Week 4
+	+ Attended class Tuesday
+	+ Study Session with Jed and Carolina 
+	+ 
 - Week 5
+	+ Attended class Tuesday
+	+ Attended Alex's coderie on Tuesday night 
 - Week 6
 - Week 7
 - Week 8
