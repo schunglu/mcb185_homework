@@ -1,25 +1,36 @@
 import random 
 
-def deathsaves():
-    success = 0
-    fail = 0
+times = 10000 
+revive = 0 
+death = 0 
+stable = 0 
 
-    while success < 3 and failure < 3:
+for i in range(times): 
+    success = 0
+    failure = 0
+    for turn in range(6):
         roll = random.randint(1, 20)
 
         if roll == 1:
             failure += 2
         elif roll == 20:
-            return "Revived"
+            revive += 1 
+            break
         elif roll >= 10:
             success += 1
         else:
             failure += 1
         
         if success >= 3:
-            return "Stable"
-        else:
-            return "Dead"
+            stable += 1
+            break
+        elif failure >= 3:
+            death += 1
+            break
+
+print("probability of revive", revive/times)
+print("probability of death", death/times)
+print("probability of stable", stable/times)
 
 """
 Probability that one dies: 40.5%
