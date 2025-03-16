@@ -85,6 +85,6 @@ more than one point per category. There is a maximum of 5 points each week.
 	+ Attended class Tuesday 
 	+ Introduced myself to Jenna 
 	+ Got assessed for unit 3
-	+ Was also sick Thursday, so didn't go to class
+	+ No class Thursday, worked on unit 4 at home 
 	+ Attended a Coderie
 	+ Total 5 points
